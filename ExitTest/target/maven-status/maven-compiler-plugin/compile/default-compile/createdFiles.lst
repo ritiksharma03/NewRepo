@@ -1,0 +1,8 @@
+apiDemoScreens\AnimationScreen.class
+apiDemoScreens\GraphicOptScreen.class
+apiDemoScreens\ViewsOptScreen.class
+apiDemoScreens\OSScreen.class
+basePage\BaseFile.class
+screenshot\Screenshot.class
+utilities\utils.class
+excel\ExcelFile.class
